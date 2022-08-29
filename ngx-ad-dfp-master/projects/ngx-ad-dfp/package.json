@@ -1,0 +1,22 @@
+{
+  "name": "ngx-ad-dfp",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alaborderie/ngx-ad-dfp.git"
+  },
+  "keywords": [
+    "angular",
+    "google",
+    "doubleclick",
+    "dfp",
+    "ads",
+    "component"
+  ],
+  "homepage": "https://github.com/alaborderie/ngx-ad-dfp#readme"
+}
